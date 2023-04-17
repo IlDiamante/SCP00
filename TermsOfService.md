@@ -14,7 +14,7 @@ Owner contact email: diamond.masterytube@gmail.com
 - Service;
 
 ## List
-- [Basic information for the user](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#what-the-user-should-know-at-a-glance)
+- [Basic information for the user](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#basic-information-for-the-user)
 - [Terms of use](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#terms-of-use)
 - [Content on SCP 00-Ω](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-on-scp-00-%CF%89)
 - [Content rights to/of SCP 00-Ω](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-rights-toof-scp-00-%CF%89)
