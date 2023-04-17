@@ -14,10 +14,10 @@ Owner contact email: diamond.masterytube@gmail.com
 - Service;
 
 ## List
-- [Basic information for the user](https://github.com/IlDiamante/SCP00/new/main?readme=1#what-the-user-should-know-at-a-glance)
-- [Terms of use](https://github.com/IlDiamante/SCP00/new/main?readme=1#terms-of-use)
-- [Content on SCP 00-Ω](https://github.com/IlDiamante/SCP00/new/main?readme=1#content-on-scp-00-%CF%89)
-- [Content rights to/of SCP 00-Ω](https://github.com/IlDiamante/SCP00/new/main?readme=1#content-rights-toof-scp-00-%CF%89)
+- [Basic information for the user](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#what-the-user-should-know-at-a-glance)
+- [Terms of use](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#terms-of-use)
+- [Content on SCP 00-Ω](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-on-scp-00-%CF%89)
+- [Content rights to/of SCP 00-Ω](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-rights-toof-scp-00-%CF%89)
 
 ## Basic information for the user
 Please note that some provisions of these Terms may only apply to certain categories of Users. In particular, some provisions may apply only to ΩMEGA-SCP's staffers or to those Users who qualify as belonging to the server [ΩMEGA-SCP](https://discord.gg/WJT7eDh). Such limitations are always explicitly mentioned within each affected clause. In the absence of such mention, the clauses apply to all Users. Use of SCP 00-Ω and the Service is age-restricted, as specified in the relevant section of this document.
@@ -47,30 +47,6 @@ Users cannot therefore use such contents in any way that is not necessary or imp
 In particular, but without limitation, Users may not copy, download, share (beyond the limits indicated below), translate, transform, publish, transmit, sell, sublicense, modify, transfer/assign to third parties or create derivative works of the content available on SCP 00, nor allow third parties to do so through the User or his device, even without the User's knowledge.
 
 Any applicable legal limitations or copyright exceptions will remain unaffected.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
