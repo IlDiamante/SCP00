@@ -98,3 +98,5 @@ Therefore, the `Owner` reserves the right to take any appropriate measure to pro
 - Misappropriation of any account used by another User.
 - Harvest any personally identifiable information of other Users including, but not limited to, their email addresses or contact information, circumventing the privacy setting of other Users' accounts on `SCP 00-Ω` or with any other means.
 - Use any information relating to other Users, including personal or contact data, for purposes other than those for which `SCP 00-Ω` is intended.
+
+###### © 2023 All rights reserved.
