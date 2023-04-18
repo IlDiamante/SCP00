@@ -21,6 +21,10 @@ Owner contact email: diamond.masterytube@gmail.com
 - [Content rights to/of `SCP 00-Ω`](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-rights-toof-scp-00-%CF%89)
 - [Access to external resources](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#access-to-external-resources)
 - [Acceptable use](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#acceptable-use)
+  - [Conduct]()
+  - [Inappropriate use/excess of services]()
+  - [Contents]()
+  - [User and user protection]() 
 
 ## Basic information for the user
 Please note that some provisions of these Terms may only apply to certain categories of Users. In particular, some provisions may apply only to `ΩMEGA-SCP's staffers` or to those Users who qualify as belonging to the server [`ΩMEGA-SCP`](https://discord.gg/WJT7eDh). Such limitations are always explicitly mentioned within each affected clause. In the absence of such mention, the clauses apply to all Users. Use of `SCP 00-Ω` and the Service is age-restricted, as specified in the relevant section of this document.
@@ -67,7 +71,34 @@ Users are solely responsible for ensuring that their use of `SCP 00-Ω` and/or t
 
 Therefore, the `Owner` reserves the right to take any appropriate measure to protect its legitimate interests including denying Users access to `SCP 00-Ω` or the Service, terminating contracts, reporting any unlawful actions carried out through `SCP 00-Ω` or the Service to competent authorities - such as judicial or administrative authorities - whenever it is suspected that Users are violating laws, regulations, third party rights and/or these Terms, including, but not limited to, by engaging in any of the following activities:
 
+### Conduct
+- Pretend to meet any possible condition or requirement to access `SCP 00-Ω` and/or use the Services, such as being at least 14 years old.
+- Hide your identity or steal the identity of someone else or pretend to be or represent a third party, unless permitted by that third party.
+- Manipulate identifiers to disguise or otherwise conceal the origin of their messages or posted content.
+- Defame, abuse, harass, use threatening practices, threaten or violate the legal rights of others in any other way.
+- Promote activities that may endanger the life of the User or any other User or cause physical harm.
+  - This includes, but is not limited to, threats or incitements to commit suicide, intentional physical trauma, use of illegal drugs or excessive alcohol consumption.
+  - Under no circumstances is any User permitted to post content that promotes and/or encourages and/or displays self-destructive or violent behavior on `SCP 00-Ω`.
+- Probe, scan, or test the vulnerability of `SCP 00-Ω`, including the services, or any network connected to the VPS, or breach security or authentication measures on `SCP 00-Ω`, including the services.
+- Install, embed, upload or otherwise incorporate any malware into or through `SCP 00-Ω`.
+- Use `SCP 00-Ω` or the technical infrastructure in an abusive, excessive or otherwise inappropriate manner (for example: for spamming purposes).
 
+### Inappropriate use/excess of services
+- Use an `SCP 00-Ω` resource excessively compared to other `SCP 00-Ω` Users – in such cases, the `Owner`, in its sole discretion, also reserves the right to suspend the User's account or limit related activity until the User reduces excessive consumption.
+- Adopt any automated process to extract, collect or scrape information, data and/or content from `SCP 00-Ω` and all related digital properties, unless expressly provided by the `Owner`.
+
+### Contents
+- Disseminate or publish illegal, obscene, illegitimate, libelous or inappropriate content.
+- Publish any content that promotes, directly or indirectly, hatred, racism, discrimination, pornography, violence.
+- Disseminate or publish false content or content that could create unjustified alarms.
+- Use `SCP 00-Ω` to publish, disseminate or otherwise provide content protected by intellectual property laws, including but not limited to patent, trademark or copyright laws, illegally and without the consent of the rights holder.
+- Use `SCP 00-Ω` to post, disseminate or otherwise make available any other content that violates the rights of third parties, including, but not limited to, state, military, commercial or professional secrets and personal data.
+- Post any content or engage in any activity that disrupts, damages, or otherwise violates the integrity of `SCP 00-Ω` or another User's experience or devices. Such activities include: spamming, distribution of unauthorized advertising, phishing, defrauding others, spreading malware or viruses, etc.
+
+### User and user protection
+- Misappropriation of any account used by another User.
+- Harvest any personally identifiable information of other Users including, but not limited to, their email addresses or contact information, circumventing the privacy setting of other Users' accounts on `SCP 00-Ω` or with any other means.
+- Use any information relating to other Users, including personal or contact data, for purposes other than those for which `SCP 00-Ω` is intended.
 
 
 
