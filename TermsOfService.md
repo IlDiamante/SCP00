@@ -1,4 +1,3 @@
-# **Document in Compiling**
 # `SCP 00-Ω`
 ### Temrs Of Service Info
 These Terms govern your use of `SCP 00-Ω` or/and any other related agreement or legal relationship with the Owner in a legally binding manner.
