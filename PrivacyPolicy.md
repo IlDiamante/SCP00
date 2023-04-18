@@ -17,3 +17,5 @@ The data we retain will be deleted when it is no longer needed to use `SCP 00-Ω
 
 ## Request data and ask for removal (if still present)
 To request your data and/or request their deletion, you can contact the owner through the contacts you find [here](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#temrs-of-service-info)
+
+###### © 2023 All rights reserved.
