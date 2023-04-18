@@ -42,4 +42,5 @@
 | `/ball` | Ball. |
 | `/goodsoup` | Good Soup :D. |
 
+##### ➤ Last Update: 18/04/2023 (DD/MM/YYYY)
 ###### © 2023 All rights reserved.
