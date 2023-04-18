@@ -17,8 +17,10 @@ Owner contact email: diamond.masterytube@gmail.com
 ## List
 - [Basic information for the user](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#basic-information-for-the-user)
 - [Terms of use](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#terms-of-use)
-- [Content on SCP 00-Ω](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-on-scp-00-%CF%89)
-- [Content rights to/of SCP 00-Ω](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-rights-toof-scp-00-%CF%89)
+- [Content on `SCP 00-Ω`](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-on-scp-00-%CF%89)
+- [Content rights to/of `SCP 00-Ω`](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#content-rights-toof-scp-00-%CF%89)
+- [Access to external resources](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#access-to-external-resources)
+- [Acceptable use](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#acceptable-use)
 
 ## Basic information for the user
 Please note that some provisions of these Terms may only apply to certain categories of Users. In particular, some provisions may apply only to `ΩMEGA-SCP's staffers` or to those Users who qualify as belonging to the server [`ΩMEGA-SCP`](https://discord.gg/WJT7eDh). Such limitations are always explicitly mentioned within each affected clause. In the absence of such mention, the clauses apply to all Users. Use of `SCP 00-Ω` and the Service is age-restricted, as specified in the relevant section of this document.
