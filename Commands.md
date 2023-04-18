@@ -5,7 +5,7 @@
 | Main Commands | Descriptions |
 | :--- | :--- |
 | `/commands` | All commands. |
-| `/info` | Show info about ΩMEGA-SC. |
+| `/info` | Show info about ΩMEGA-SCP. |
 | `/report` | Report a staffer of ΩMEGA-SCP to ΩMEGA-SCP. |
 | `/scp` | Find a SCP. |
 
@@ -41,6 +41,13 @@
 | `/love` | Can you be with that person or not? |
 | `/ball` | Ball. |
 | `/goodsoup` | Good Soup :D. |
+
+## ΩMEGA-SCP Commands
+| ΩMEGA-SCP Commands | Descriptions |
+| :--- | :--- |
+| /ping | Ping a role to play or stand in voice channel. (ΩMEGA-SCP Only) |
+| /report | Report a staffer to the section heads of that section. |
+| /omegaban-appeal | Get unbanned from the ΩMEGA-SCP Discord server. [Tutorial](https://youtu.be/t1HqZHBUbpg) - [Server](https://discord.gg/e29vFwPR3P) |
 
 ##### ➤ Last Update: 18/04/2023 (DD/MM/YYYY)
 ###### © 2023 All rights reserved.
