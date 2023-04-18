@@ -6,7 +6,7 @@ We store for the best user experience:
 - Users IDs
 
 We also keep this data only for you within `ΩMEGA-SCP`:
-- Channel IDs
+- Channels IDs
 - Roles IDs
 
 ## Discord privacy policy
