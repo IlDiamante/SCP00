@@ -19,8 +19,8 @@
 | `/user` | Show info about an user. |
 | `/serverinfo` | Show info about a server. |
 | `/embed` | Create an Embed (Full Customizable). |
-| `/avatar` | Show user avatar. |
-| `/savatar` | Show user custom avatar. |
+| `/avatar user` | Show user avatar. |
+| `/avatar server` | Show user custom avatar. |
 | `/back` | Feedback. |
 | `/discriminator` | Find a user with a discriminator. |
 
