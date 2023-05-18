@@ -49,5 +49,5 @@
 | /report | Report a staffer to the section heads of that section. |
 | /omegaban-appeal | Get unbanned from the ΩMEGA-SCP Discord server. [Tutorial](https://youtu.be/t1HqZHBUbpg) - [Server](https://discord.gg/e29vFwPR3P) |
 
-##### ➤ Last Update: 18/04/2023 (DD/MM/YYYY)
+##### ➤ Last Update: 18/05/2023 (DD/MM/YYYY)
 ###### © 2023 All rights reserved.
