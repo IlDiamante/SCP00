@@ -22,7 +22,7 @@
 | `/avatar user` | Show user avatar. |
 | `/avatar server` | Show user custom avatar. |
 | `/back` | Feedback. |
-| `/discriminator` | Find a user with a discriminator. |
+| `//manage-remind` | Manage your reminder. |
 
 ## Fun Commands
 | Fun Commands | Descriptions |
