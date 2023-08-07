@@ -22,7 +22,7 @@
 | `/avatar user` | Show user avatar. |
 | `/avatar server` | Show user custom avatar. |
 | `/back` | Feedback. |
-| `//manage-remind` | Manage your reminder. |
+| `/manage-remind` | Manage your reminder. |
 
 ## Fun Commands
 | Fun Commands | Descriptions |
