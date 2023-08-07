@@ -5,7 +5,7 @@ These Terms govern your use of `SCP 00-Ω` or/and any other related agreement or
 
 `SCP 00-Ω` is provided by: `@DiΔmΩndmΔster#6969`
 
-`Owner` contact email: diamond.masterytube@gmail.com
+`Owner` contact email: diamond@ildiamantedisl.com
 
 `SCP 00-Ω` refers to:
 - Support Server: https://discord.gg/WJT7eDh;
