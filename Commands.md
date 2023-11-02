@@ -45,7 +45,6 @@
 ## ΩMEGA-SCP Commands
 | ΩMEGA-SCP Commands | Descriptions |
 | :--- | :--- |
-| /ping | Ping a role to play or stand in voice channel. (ΩMEGA-SCP Only) |
 | /report | Report a staffer to the section heads of that section. |
 | /omegaban-appeal | Get unbanned from the ΩMEGA-SCP Discord server. [Tutorial](https://youtu.be/t1HqZHBUbpg) - [Server](https://discord.gg/e29vFwPR3P) |
 
