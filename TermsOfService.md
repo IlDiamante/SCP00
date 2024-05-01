@@ -8,7 +8,7 @@ These Terms govern your use of `SCP 00-Ω` or/and any other related agreement or
 `Owner` contact email: diamond@ildiamantedisl.com
 
 `SCP 00-Ω` refers to:
-- Support Server: https://discord.gg/WJT7eDh;
+- Support Server: https://discord.gg/HCkYcSBHu8;
 - Top.gg account;
 - Service;
 - SCP 00-Ω's website;
