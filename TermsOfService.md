@@ -9,9 +9,9 @@ These Terms govern your use of `SCP 00-Ω` or/and any other related agreement or
 
 `SCP 00-Ω` refers to:
 - Support Server: https://discord.gg/WJT7eDh;
-- 2nd Support Server: https://discord.gg/e29vFwPR3P;
 - Top.gg account;
 - Service;
+- SCP 00-Ω's website;
 
 ## List
 - [Basic information for the user](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#basic-information-for-the-user)
@@ -26,7 +26,7 @@ These Terms govern your use of `SCP 00-Ω` or/and any other related agreement or
   - [User and user protection](https://github.com/IlDiamante/SCP00/blob/main/TermsOfService.md#user-and-user-protection) 
 
 ## Basic information for the user
-Please note that some provisions of these Terms may only apply to certain categories of Users. In particular, some provisions may apply only to `ΩMEGA-SCP's staffers` or to those Users who qualify as belonging to the server [`ΩMEGA-SCP`](https://discord.gg/WJT7eDh). Such limitations are always explicitly mentioned within each affected clause. In the absence of such mention, the clauses apply to all Users. Use of `SCP 00-Ω` and the Service is age-restricted, as specified in the relevant section of this document.
+Please note that some provisions of these Terms may only apply to certain categories of Users. In particular, some provisions may apply only to `SCP 00-Ω's Community staffers` or to those Users who qualify as belonging to the server [`SCP 00-Ω's Community`](https://discord.gg/HCkYcSBHu8). Such limitations are always explicitly mentioned within each affected clause. In the absence of such mention, the clauses apply to all Users. Use of `SCP 00-Ω` and the Service is age-restricted, as specified in the relevant section of this document.
 
 ## Terms of use
 Unless otherwise noted, the terms of use described in this section generally apply when using `SCP 00-Ω`.
@@ -37,7 +37,7 @@ By using `SCP 00-Ω`, Users confirm that they meet the following requirements:
 
 - Users must be over 14 years old;
 - Respectful and aware of the [Terms Of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) of Discord;
-- You have read these terms and be aware that some commands are for the EXCLUSIVE use of `ΩMEGA-SCP`.
+- You have read these terms and be aware that some commands are for the EXCLUSIVE use of `SCP 00-Ω`.
 
 ## Content on `SCP 00-Ω`
 Unless otherwise specified or clearly recognizable, all content available on `SCP 00-Ω` is owned or provided by the `Owner` or its licensors.
@@ -99,5 +99,5 @@ Therefore, the `Owner` reserves the right to take any appropriate measure to pro
 - Harvest any personally identifiable information of other Users including, but not limited to, their email addresses or contact information, circumventing the privacy setting of other Users' accounts on `SCP 00-Ω` or with any other means.
 - Use any information relating to other Users, including personal or contact data, for purposes other than those for which `SCP 00-Ω` is intended.
 
-##### ➤ Last Update: 18/04/2023 (DD/MM/YYYY)
+##### ➤ Last Update: 01/05/2024 (DD/MM/YYYY)
 ###### © 2023 All rights reserved.
