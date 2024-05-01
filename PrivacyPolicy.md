@@ -5,6 +5,10 @@ We store for the best user experience:
 - Guild IDs
 - Users IDs
 
+We also keep this data only for you within `SCP 00-Ω's Community`:
+- Guild IDs
+- Users IDs
+
 ## Discord privacy policy
 Additionally `SCP 00-Ω` respects and shares Discord's [Privacy Policy](https://discord.com/privacy-policy)
 
