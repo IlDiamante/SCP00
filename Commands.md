@@ -5,8 +5,7 @@
 | Main Commands | Descriptions |
 | :--- | :--- |
 | `/commands` | All commands. |
-| `/info` | Show info about ΩMEGA-SCP. |
-| `/report` | Report a staffer of ΩMEGA-SCP to ΩMEGA-SCP. |
+| `/info` | Show info about SCP 00-Ω. |
 | `/scp` | Find a SCP. |
 
 ## Utility Commands
@@ -23,6 +22,8 @@
 | `/avatar server` | Show user custom avatar. |
 | `/back` | Feedback. |
 | `/manage-remind` | Manage your reminder. |
+| `/set-tts` | Set or reset TTS on your server. |
+| `/remvoe-tts` | Remove TTS System from your server. |
 
 ## Fun Commands
 | Fun Commands | Descriptions |
@@ -42,12 +43,10 @@
 | `/ball` | Ball. |
 | `/goodsoup` | Good Soup :D. |
 
-## ΩMEGA-SCP Commands
-| ΩMEGA-SCP Commands | Descriptions |
+## SITE 02 STUDIOS Commands
+| SITE 02 STUDIOS Commands | Descriptions |
 | :--- | :--- |
-| /report | Report a staffer to the section heads of that section. |
-| /omega-scp-appeal | Get unbanned from the ΩMEGA-SCP Discord server. [Tutorial](https://youtu.be/t1HqZHBUbpg) - [Server](https://discord.gg/e29vFwPR3P) |
-| /omega-mgmc-appeal | Get unbanned from the ΩMEGA-SCP Discord server. [Tutorial](https://youtu.be/t1HqZHBUbpg) - [Server](https://discord.gg/e29vFwPR3P) |
+| /site02-banappeal | Get unbanned from the SITE 02 STUDIOS Discord server. 
 
 ##### ➤ Last Update: 07/08/2023 (DD/MM/YYYY)
 ###### © 2023 All rights reserved.
