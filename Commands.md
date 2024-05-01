@@ -48,5 +48,5 @@
 | :--- | :--- |
 | /site02-banappeal | Get unbanned from the SITE 02 STUDIOS Discord server. 
 
-##### ➤ Last Update: 07/08/2023 (DD/MM/YYYY)
+##### ➤ Last Update: 01/05/2024 (DD/MM/YYYY)
 ###### © 2023 All rights reserved.
